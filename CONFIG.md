@@ -25,10 +25,10 @@ Heroacapic-List
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- ヒロアカ
-- 僕のヒーローアカデミア
-- #ヒロアカ
-- #僕のヒーローアカデミア
+- "ヒロアカ"
+- "僕のヒーローアカデミア"
+- "#ヒロアカ"
+- "#僕のヒーローアカデミア"
 
 # denyList
 
@@ -49,4 +49,4 @@ false
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](avatar.png)
+![]()
