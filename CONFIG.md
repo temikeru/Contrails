@@ -9,13 +9,13 @@ Heroacapic-List
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-僕のヒーローアカデミア
+改良前のフィード
 
 # description
 
 > This is the description of the feed.
 
-ヒロアカのフィード
+消せなくなったのでとりあえず放置しておきます。すみません
 
 # searchTerms
 
